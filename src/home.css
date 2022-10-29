@@ -1,0 +1,95 @@
+
+
+ .internship{
+
+    
+    
+    width: 750px;
+    float: right;
+    margin: auto;
+    padding: 20px;
+  
+    
+
+ }
+
+ .internship h1{
+
+   
+   
+   font-size: 25px;
+
+ }
+
+ #button{
+    
+   
+    font-size: small;
+    float: right;
+
+    
+
+    
+   
+    
+ }
+
+ #data{
+
+   font-size: 15px;
+
+ }
+
+ .internship p{
+
+  font-size: small;
+  font-weight: lighter;
+
+ }
+
+ #insights{
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 5px;
+  height: 200px;
+  
+ }
+
+#b2{
+
+  font-size: small;
+  margin: 5px;
+  margin-left: 50px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+
+
+}
+#b3{
+
+  font-size: small;
+  border-radius: 5px;
+  background-color: white;
+}
+
+#b4{
+
+  font-size: small;
+  float: right;
+  border-radius: 5px;
+  background-color: white;
+
+
+}
+
+#graph{
+
+  float: right;
+
+  
+  
+
+}
+
+ 

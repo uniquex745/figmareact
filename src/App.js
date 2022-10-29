@@ -1,24 +1,37 @@
-import './index.css'
+import './index.css';
+import './home.css';
 import Navbar from './Navbar';
-import Home from './Home';
+import  Home from './Home';
+
+
+
+
+
+
 
 function App() {
 
 
   return (
     
-    <div className="App">
+    <><div className='container col-10'><Home /></div><div className="container col-2">
+
       <Navbar />
-      <div className="content">
-        <Home/>
-  
-      </div>
-
-
-
-
-    </div>
+    </div></>
+    
+    
+    
+    
+    
   );
 }
 
+
+
+
+
 export default App;
+
+
+
+

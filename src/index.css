@@ -1,43 +1,56 @@
 
-
-
 *{
-
-  margin: 0;
-
-  
-
-
+  margin: 0px;
 }
+
 
 body{
 
   background-color: lightgrey;
+  
 
 }
+.container{
+  
+  margin-left: 0px;
+}
+
 
 .navbar{
 
-  width: 150px;
+  
+  width: 200px;
   padding: 5px;
   height: 600px;
   display: flex;
+  
   margin: 5px;
   background-color: white;
   border-radius: 20px;
 
+ 
 
 
 }
 
+.links{
+
+  
+  margin-bottom: 150px;
+  margin-left: 20px;
+}
+
 .links a{
 
-  padding: 20px;
+  padding: 5px;
   display: flex;
   text-decoration: none;
-  margin-left: 5px;
+  margin-left: 10px;
   font-size: small;
   line-height: 8px;
+  margin-bottom: 40px;
+  
+  
 
   
 
@@ -45,12 +58,14 @@ body{
 
 .links h1{
 
+  
   padding: 17px;
   color: black;
   font-size: 20px;
-  margin-left: 5px;
+  margin: 5px;
   font-weight: lighter;
   font-family:Georgia, 'Times New Roman', Times, serif
+  
   
   
   
@@ -85,6 +100,17 @@ body{
   font-size: 20px;
 }
 
+
+.links a:hover{
+
+  color: black;
+  background-color: lightblue;
+  border-radius: 30px;
+  
+  
+  
+
+}
 
 #x{
 
