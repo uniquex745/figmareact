@@ -9,15 +9,24 @@ import  Home from './Home';
 
 
 
+
+
 function App() {
 
 
   return (
     
-    <><div className='container col-10'><Home /></div><div className="container col-2">
+    <><div className='container col-10'><Home />
+    
+    
+    </div><div className="container col-2">
+    
 
       <Navbar />
-    </div></>
+    </div>
+    
+    </>
+    
     
     
     

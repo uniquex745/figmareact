@@ -8,22 +8,24 @@ import {DiAptana} from 'react-icons/di'
 const Navbar = () => {
     return ( 
 
-        <nav className="navbar" >
-        
-        <div className="links" >
+        <nav className="navbar">
 
-            
-            <h1>RADICAL&nbsp;<span id='x'>X</span></h1>
-            <a href="/" ><span  id='dash'><AiOutlineAppstoreAdd/></span><br/>&nbsp; Dashboard</a>
-            <a href="/"><span id='medal'><TfiMedall/></span><br/>&nbsp; Apprentership</a>
-            <a href="/"><span id='book'><SlBookOpen/></span><br/>&nbsp;&nbsp;Internships</a>
-            <a href="/"><span id='jb'><SlBag/></span><br/>&nbsp;Jobs</a>
-            <a href="/"><span id='set'><DiAptana/></span><br/>&nbsp; Settings</a>
+            <div className="links">
 
 
-        </div>
-        
+                <h1>RADICAL&nbsp;<span id='x'>X</span></h1>
+                <a href="/"><span id='dash'><AiOutlineAppstoreAdd /></span><br />&nbsp; Dashboard</a>
+                <a href="/"><span id='medal'><TfiMedall /></span><br />&nbsp; Apprenterships</a>
+                <a href="/"><span id='book'><SlBookOpen /></span><br />&nbsp;&nbsp;Internships</a>
+                <a href="/"><span id='jb'><SlBag /></span><br />&nbsp;Jobs</a>
+                <a href="/"><span id='set'><DiAptana /></span><br />&nbsp; Settings</a>
+
+
+            </div>
+            <h6 id='adam'><input class="form-check-input" type="checkbox" value="" id="defaultCheck1"></input>&nbsp;
+                     &nbsp;   Adam Scott</h6>
         </nav>
+        
 
 
      );

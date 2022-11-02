@@ -4,9 +4,9 @@
 
     
     
-    width: 750px;
+    width: 850px;
     float: right;
-    margin: auto;
+    margin-right: -90px;
     padding: 20px;
   
     
@@ -17,7 +17,7 @@
 
    
    
-   font-size: 25px;
+   font-size: 20px;
 
  }
 
@@ -26,6 +26,7 @@
    
     font-size: small;
     float: right;
+    
 
     
 
@@ -45,40 +46,51 @@
   font-size: small;
   font-weight: lighter;
 
+
  }
 
  #insights{
   background-color: whitesmoke;
   padding: 10px;
   border-radius: 5px;
-  height: 200px;
+  height: 170px;
+  width: 810px;
   
  }
 
 #b2{
 
-  font-size: small;
+  font-size: 10px;
   margin: 5px;
   margin-left: 50px;
   border-radius: 5px;
   background-color: blue;
   color: white;
+  padding: 5px;
+  width: 70px;
+  font-weight: bold;
 
 
 }
 #b3{
 
-  font-size: small;
+  font-size: 11px;
   border-radius: 5px;
+  padding: 3px;
+  width: 70px;
   background-color: white;
+  font-weight: bold;
 }
 
 #b4{
 
-  font-size: small;
+  font-size: 11px;
   float: right;
   border-radius: 5px;
   background-color: white;
+  padding: 3px;
+  font-weight: bold;
+  
 
 
 }
@@ -92,4 +104,16 @@
 
 }
 
- 
+.table
+{
+  background-color: whitesmoke;
+  width: 700px;
+  margin:auto;
+  padding: 100px;
+  text-align: left;
+  
+  
+}
+#ci{
+  font-size: 18px;
+}

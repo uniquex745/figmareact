@@ -49,6 +49,7 @@ body{
   font-size: small;
   line-height: 8px;
   margin-bottom: 40px;
+  color: black;
   
   
 
@@ -101,13 +102,13 @@ body{
 }
 
 
-.links a:hover{
+  a:hover{
 
-  color: black;
+  color: blue;
   background-color: lightblue;
-  border-radius: 30px;
-  
-  
+  border-radius: 5px;
+  padding: 5px;
+
   
 
 }
@@ -116,4 +117,39 @@ body{
 
       color: lightgreen;
 
+}
+.roll{
+  border-radius: 1px;
+  background-color: lightblue;
+  width: 50px;
+  height: 20px;
+  text-align: center;
+  padding: 1px;
+  color: blue;
+}
+
+#wit{
+  font-size: 15px;
+}
+
+.vsg{
+  font-size: 20px;
+  color: blueviolet;
+}
+
+#adam{
+
+  margin: auto;
+  margin-top: -40px;
+  font-size: 12px;
+
+
+}
+#adam .form-check-input{
+
+  width: 25px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: -5px;
+  
 }
