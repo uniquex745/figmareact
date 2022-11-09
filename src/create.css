@@ -1,0 +1,42 @@
+
+.addnew{
+    background-color:aliceblue;
+    border-radius: 20px;
+    height: 50px;
+    margin: auto;
+    margin-top: 15px;
+    padding: 9px;
+    width: 1300px;
+    
+}
+#hnew{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#cns{
+    float: right;
+    padding: 5px;
+    font-size: small;
+    background-color: lightgray;
+    color: gray;
+    border: 0px solid gray;
+    height: 35px;
+
+
+}
+        
+#ba{
+    float: left;
+    font-size: medium;
+    margin: 1px;
+    
+    
+
+}
+
+#hi{
+    font-size: 20px;
+}
