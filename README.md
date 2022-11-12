@@ -17,7 +17,7 @@
 
  
  
- www.radicalx.com
+ https://www.radicalx.co/
  Gain tech industry experience by collaborating with global teams · 
  Succeed in Tech with Real-World Experience ·
  Build connections and friendships. 
