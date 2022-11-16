@@ -5,15 +5,15 @@
  
  3.Use React.js will build out the first page from the Figma Template.
  
+ ![projectedited](https://user-images.githubusercontent.com/116291339/202137677-8aebabf4-16c4-4d0a-8f10-2629c65bfbe5.jpg)
+
  
  
  
  
  
  
- 
-  
-![project-1](https://user-images.githubusercontent.com/116291339/201000972-46bdd4a9-95f5-4425-8aee-ce38dfd22f2d.PNG)
+
 
  
  
