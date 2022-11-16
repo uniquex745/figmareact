@@ -4,10 +4,10 @@
 
     
     
-    width: 850px;
+    width: 150vh;
     float: right;
-    margin-right: -90px;
-    padding: 20px;
+    margin-right: -10rem;
+    padding: 1rem;
   
     
 
@@ -17,7 +17,7 @@
 
    
    
-   font-size: 20px;
+   font-size: 150%;
 
  }
 
@@ -51,44 +51,45 @@
 
  #insights{
   background-color: whitesmoke;
-  padding: 10px;
-  border-radius: 5px;
-  height: 170px;
-  width: 810px;
+  padding: 1rem;
+  border-radius: 1rem;
+  height: 26vh;
+  width: 69vw;
   
  }
 
 #b2{
 
-  font-size: 10px;
-  margin: 5px;
-  margin-left: 50px;
-  border-radius: 5px;
+  font-size: 50%;
+  margin: 0.1rem;
+  margin-left: 3rem;
+  border-radius: 0.3rem;
   background-color: blue;
   color: white;
-  padding: 5px;
-  width: 70px;
+  padding: 0.4rem;
+  width: 5vw;
   font-weight: bold;
 
 
 }
 #b3{
 
-  font-size: 11px;
-  border-radius: 5px;
-  padding: 3px;
-  width: 70px;
+  font-size: 50%;
+  border-radius: 0.4rem;
+  padding: 0.2rem;
+  width: 5vw;
+  height: 4.5vh;
   background-color: white;
   font-weight: bold;
 }
 
 #b4{
 
-  font-size: 11px;
+  font-size: 50%;
   float: right;
-  border-radius: 5px;
+  border-radius: 0.3rem;
   background-color: white;
-  padding: 3px;
+  padding: 0.2rem;
   font-weight: bold;
   
 
@@ -107,13 +108,27 @@
 .table
 {
   background-color: whitesmoke;
-  width: 700px;
-  margin:auto;
-  padding: 100px;
+  
+  
+  
   text-align: left;
   
   
 }
-#ci{
-  font-size: 18px;
+
+@media  screen and (max-width:375px){
+
+  .internship{
+    background-color: red;
+    width: 1rem;
+    height: 1rem;
+    padding: auto;
+    float: auto;
+  
+  }
+  .internship p{
+    font-size: auto;
+
+  }
+  
 }

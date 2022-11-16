@@ -6,6 +6,7 @@ import {DiAptana} from 'react-icons/di'
 
 
 import './index.css';
+import './respnsei.css'
 
 import { Link } from 'react-router-dom';
 

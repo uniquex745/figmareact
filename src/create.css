@@ -1,16 +1,32 @@
 
 .addnew{
-    background-color:aliceblue;
-    border-radius: 20px;
-    height: 50px;
+    background-color:white;
+    border-radius: 1rem;
+    height: 8vh;
     margin: auto;
-    margin-top: 15px;
-    padding: 9px;
-    width: 1300px;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    width: 95vw;
     
 }
+.descr{
+    
+    border-radius: 1rem;
+    height: 8vh;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 0.3rem;
+    width: 95vw;
+    background-color: lightgrey;
+    border: 0.01rem solid gray;
+    
+}
+
+
+
+
 #hnew{
-    font-size: 25px;
+    font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
     
@@ -18,25 +34,158 @@
 
 #cns{
     float: right;
-    padding: 5px;
+    padding: 0.2rem;
     font-size: small;
     background-color: lightgray;
     color: gray;
-    border: 0px solid gray;
-    height: 35px;
+    border: 0rem solid gray;
+    height: 5vh;
 
 
 }
         
 #ba{
     float: left;
-    font-size: medium;
-    margin: 1px;
+    font-size: 0.9rem;
+    margin: 0.1rem;
+    color: black;
     
     
 
 }
 
 #hi{
-    font-size: 20px;
+    font-size: 140%;
 }
+
+#aria{
+    color: black;
+    background-color: lightgrey;
+    padding: 1rem;
+}
+
+#sett{
+    float: right;
+    border: 0px;
+    
+}
+
+#ign{
+    margin-left: 5rem;
+    border: 0px;
+
+}
+
+#surv{
+    margin-left: 10rem;
+    border: 0px;
+    
+}
+.buttgr{
+
+    margin:auto;
+    
+    padding: auto;
+    width: 95vw;
+    margin-top: 1rem;
+
+
+    
+}
+
+
+#tba{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+.blb{
+    
+    width: 40vw;
+    margin: 0.09rem;
+    border-radius: 0.5rem;
+    background-color: aliceblue;
+    color: black;
+    text-align: left;
+    
+    
+      
+    
+}
+
+
+.dotted{
+    border: 2px dotted blue;
+    background-color: lightgray;
+    color: blue;
+    border-radius: 0.5rem;
+    height: 2.5rem;
+    width: 40vw;
+
+    
+}
+
+
+
+
+
+
+
+.icon5{
+    
+    
+    
+    
+    width: 1.6vw;
+    font-size: 1.3rem;
+    margin-top: -0.001rem;
+    padding: 0.01rem;
+    line-height: 3rem;
+
+
+    
+    
+    
+    
+}
+
+.aifil{
+    float: right;
+    font-size: 1rem;
+    padding: auto;
+    margin-top: 0.3rem;
+
+}
+
+
+#search{
+    border-radius: 0.5rem;
+    
+}
+
+#intd{
+
+    border:0px ;
+    
+
+
+}
+
+.descr button a {
+
+    color: black;
+    font-weight: lighter;
+    text-decoration: none;
+    font-style: none;
+    background-color: lightgray;
+    padding: 0.5rem;
+}
+  
+
+#description{
+    height: 15vh;
+    background-color:lightgrey;
+    border-radius: 0.5rem;
+}
+    

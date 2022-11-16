@@ -1,0 +1,221 @@
+@media screen and (max-width:375px){
+    *{
+        margin: 0rem;
+      }
+      
+      
+      body{
+      
+        background-color: lightgrey;
+        
+      
+      }
+      .container{
+        
+        margin-left: 0rem;
+      }
+      
+      
+      .navbar{
+      
+        
+        width: 1vw;
+        
+        height: 1vh;
+        display: flex;
+        
+        margin: 0.5rem;
+        background-color: white;
+        border-radius: 2rem;
+      
+       
+      
+      
+      }
+      
+      .links{
+      
+        
+        margin-bottom: 1rem;
+        margin-left: 0.1rem;
+        
+        
+        
+      }
+      
+      .links a {
+      
+        padding: 0.2rem;
+        display: flex;
+        text-decoration: none;
+        font-size: 10%;
+        font-weight: 5%;
+        margin-bottom: 1rem;
+        line-height: 0vh;
+        color: black;
+        height: 0vh;
+        margin: 0rem;
+        
+        
+        
+        
+        
+        
+      
+        
+      
+      }
+      
+      .links h1{
+      
+        
+        padding: 0rem;
+        color: black;
+        font-size: 50%;
+        margin: 0rem;
+        font-weight: lighter;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        
+        
+        
+        
+      
+      }
+      
+       
+      #dash{
+      
+          font-size: 50%;
+          
+      
+      }
+      
+      
+      #medal{
+      
+        font-size: 50%;
+      }
+      
+      #book{
+      
+        font-size: 50%;
+      }
+      
+      #set{
+      
+        font-size: 50%;
+      }
+      
+      #jb{
+        font-size: 50%;
+      }
+      
+      
+        a:hover{
+      
+        color: blue;
+        background-color: lightblue;
+        border-radius: 5px;
+        padding: 5rem;
+        height: 1vh;
+        
+        
+      
+        
+      
+      }
+      
+      #x{
+      
+            color: lightgreen;
+      
+      }
+      .roll{
+        border-radius: 0.2rem;
+        background-color: lightblue;
+        width: 0rem;
+        height: 0rem;
+        text-align: center;
+        padding: 0rem;
+        color: blue;
+      }
+      
+      #wit{
+        font-size: 50%;
+      }
+      
+      .vsg{
+        font-size: 50%;
+        color: blueviolet;
+      }
+      
+      #adam{
+      
+        margin: auto;
+        
+        font-size: 10%;
+      
+      
+      }
+      #adam .form-check-input{
+      
+        width: 0vw;
+        height: 0vh;
+        border-radius: 0rem;
+        margin-top: -0rem;
+        
+      }
+      
+        
+        .links{
+        
+          
+          margin-bottom: 10rem;
+          margin-left: 1.5rem;
+          
+          
+          
+        }
+        
+        .links a {
+        
+          padding: 0.2rem;
+          display: flex;
+          text-decoration: none;
+          font-size: 70%;
+          font-weight: 20%;
+          margin-bottom: 10rem;
+          line-height: 1vh;
+          color: black;
+          height: 5vh;
+          margin: 1rem;
+          
+          
+          
+          
+          
+          
+        
+          
+        
+        }
+        
+        .links h1{
+        
+          
+          padding: 1rem;
+          color: black;
+          font-size: 150%;
+          margin: 0.1rem;
+          font-weight: lighter;
+          font-family:Georgia, 'Times New Roman', Times, serif;
+          
+          
+          
+          
+        
+        }
+      
+      
+
+}

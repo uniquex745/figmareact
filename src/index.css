@@ -1,6 +1,6 @@
 
 *{
-  margin: 0px;
+  margin: 0rem;
 }
 
 
@@ -12,21 +12,21 @@ body{
 }
 .container{
   
-  margin-left: 0px;
+  margin-left: 0rem;
 }
 
 
 .navbar{
 
   
-  width: 200px;
-  padding: 5px;
-  height: 600px;
+  width: 15vw;
+  
+  height: 95vh;
   display: flex;
   
-  margin: 5px;
+  margin: 0.5rem;
   background-color: white;
-  border-radius: 20px;
+  border-radius: 2rem;
 
  
 
@@ -36,8 +36,8 @@ body{
 .links{
 
   
-  margin-bottom: 150px;
-  margin-left: 20px;
+  margin-bottom: 10rem;
+  margin-left: 1.5rem;
   
   
   
@@ -45,18 +45,16 @@ body{
 
 .links a {
 
-  padding: 10px;
+  padding: 0.2rem;
   display: flex;
   text-decoration: none;
-  font-size: 12px;
-  font-weight: 20px;
-  
-  margin-bottom: 10px;
-  line-height: 10px;
+  font-size: 70%;
+  font-weight: 20%;
+  margin-bottom: 10rem;
+  line-height: 1vh;
   color: black;
-  height: 30px;
-  
-  margin: 10px;
+  height: 5vh;
+  margin: 1rem;
   
   
   
@@ -71,10 +69,10 @@ body{
 .links h1{
 
   
-  padding: 17px;
+  padding: 1rem;
   color: black;
-  font-size: 21px;
-  margin: 5px;
+  font-size: 150%;
+  margin: 0.1rem;
   font-weight: lighter;
   font-family:Georgia, 'Times New Roman', Times, serif;
   
@@ -87,7 +85,7 @@ body{
  
 #dash{
 
-    font-size: 17px;
+    font-size: 150%;
     
 
 }
@@ -95,21 +93,21 @@ body{
 
 #medal{
 
-  font-size: 17px;
+  font-size: 150%;
 }
 
 #book{
 
-  font-size: 17px;
+  font-size: 150%;
 }
 
 #set{
 
-  font-size: 17px;
+  font-size: 150%;
 }
 
 #jb{
-  font-size: 17px;
+  font-size: 150%;
 }
 
 
@@ -118,8 +116,8 @@ body{
   color: blue;
   background-color: lightblue;
   border-radius: 20px;
-  padding: 5px;
-  height: 30px;
+  padding: 0.2rem;
+  height: 5vh;
   
   
 
@@ -133,37 +131,88 @@ body{
 
 }
 .roll{
-  border-radius: 1px;
+  border-radius: 0.2rem;
   background-color: lightblue;
-  width: 50px;
-  height: 20px;
+  width: 4rem;
+  height: 1.4rem;
   text-align: center;
-  padding: 1px;
+  padding: 0.1rem;
   color: blue;
 }
 
 #wit{
-  font-size: 15px;
+  font-size: 150%;
 }
 
 .vsg{
-  font-size: 20px;
+  font-size: 150%;
   color: blueviolet;
 }
 
 #adam{
 
   margin: auto;
-  margin-top: -40px;
-  font-size: 12px;
+  
+  font-size: 70%;
 
 
 }
 #adam .form-check-input{
 
-  width: 25px;
-  height: 25px;
-  border-radius: 5px;
-  margin-top: -5px;
+  width: 2.3vw;
+  height: 5vh;
+  border-radius: 0.4rem;
+  margin-top: -0.5rem;
   
 }
+
+  
+  .links{
+  
+    
+    margin-bottom: 10rem;
+    margin-left: 1.5rem;
+    
+    
+    
+  }
+  
+  .links a {
+  
+    padding: 0.2rem;
+    display: flex;
+    text-decoration: none;
+    font-size: 70%;
+    font-weight: 20%;
+    margin-bottom: 10rem;
+    line-height: 1vh;
+    color: black;
+    height: 5vh;
+    margin: 1rem;
+    
+    
+    
+    
+    
+    
+  
+    
+  
+  }
+  
+  .links h1{
+  
+    
+    padding: 1rem;
+    color: black;
+    font-size: 150%;
+    margin: 0.1rem;
+    font-weight: lighter;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    
+    
+    
+  
+  }
+
